@@ -1,1 +1,1 @@
-This is a simple server comprising two routes, "/index" and "/about"
+This is a simple server comprising two html routes, "/index" and "/about"
